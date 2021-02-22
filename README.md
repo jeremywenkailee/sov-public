@@ -7,12 +7,12 @@ Jan 4 2021 | Jeremy | Format code better
 Jan 8 2021 | Yazan | Finish test server  DONE  
 
 ## MEMBERS
-* Jeremy - jeremywenkailee.1998@gmail.com
-* Alisa - awinters6129@gmail.com
-* Jeff - jeffsmwong@gmail.com
-* Alex - al.m.tabet@gmail.com
-* Jay -
-* Yazan - yazanardekany@gmail.com
+* Jeremy
+* Alisa
+* Jeff
+* Alex 
+* Jay 
+* Yazan
 
 ## LINKS  
 Feature list: https://docs.google.com/document/d/1mM_Pb1iKoaJ0zrtyemoFkxQWXRVBjYkpJPiAx5_YGeI/edit?usp=sharing  
@@ -20,7 +20,7 @@ API Documentation: https://discordpy.readthedocs.io/en/latest/api.html
 Onboarding to creating a Discord bot: https://realpython.com/how-to-make-a-discord-bot-python/  
 
 ## Future Change/Ideas (P = Priority)
-* P1 - Refactor code into functions
+* P1 - Refactor code into functions while managing async functions
 * P2 - Clean up code
 * P2 - Channel ID file
 * P3 - SOV censor reminders
