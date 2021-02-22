@@ -1,5 +1,5 @@
 # STREETS OF VANCITY DISCORD BOT PROJECT  
-This is the Readme to the SOV Discord Bot. Provided is the EngageBot.py file, which contains a large portion of the backend for the bot. Currently, the Bot is still in an ideation/testing phase but hopefully we can tidy things up into functions and expand what the bot is capable of over the course of the next few weeks/months.
+This is the Readme to the SOV Discord Bot. Provided is the EngageBot.py file, which contains a large portion of the backend for the bot. Currently, the Bot is still in an ideation/testing phase but hopefully we can tidy things up into functions and expand what the bot is capable of over the course of the next few weeks/months. This is the public version of the SOV Discord Bot. This repository is used to showcase the code in progress.
 
 ## UPCOMING DATES
 Jan 2 2021 | Jeff + Jeremy | Get bot running on Rsp Pi + server if possible  DONE  
